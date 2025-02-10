@@ -1,0 +1,15 @@
+C:\Users\erikg\Documents\Dev\Backend\Minioppgave MVC\bin\Debug\net9.0\Minioppgave MVC.exe
+C:\Users\erikg\Documents\Dev\Backend\Minioppgave MVC\bin\Debug\net9.0\Minioppgave MVC.deps.json
+C:\Users\erikg\Documents\Dev\Backend\Minioppgave MVC\bin\Debug\net9.0\Minioppgave MVC.runtimeconfig.json
+C:\Users\erikg\Documents\Dev\Backend\Minioppgave MVC\bin\Debug\net9.0\Minioppgave MVC.dll
+C:\Users\erikg\Documents\Dev\Backend\Minioppgave MVC\bin\Debug\net9.0\Minioppgave MVC.pdb
+C:\Users\erikg\Documents\Dev\Backend\Minioppgave MVC\obj\Debug\net9.0\Minioppgave MVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erikg\Documents\Dev\Backend\Minioppgave MVC\obj\Debug\net9.0\Minioppgave MVC.AssemblyInfoInputs.cache
+C:\Users\erikg\Documents\Dev\Backend\Minioppgave MVC\obj\Debug\net9.0\Minioppgave MVC.AssemblyInfo.cs
+C:\Users\erikg\Documents\Dev\Backend\Minioppgave MVC\obj\Debug\net9.0\Minioppgave MVC.csproj.CoreCompileInputs.cache
+C:\Users\erikg\Documents\Dev\Backend\Minioppgave MVC\obj\Debug\net9.0\Minioppgave MVC.sourcelink.json
+C:\Users\erikg\Documents\Dev\Backend\Minioppgave MVC\obj\Debug\net9.0\Minioppgave MVC.dll
+C:\Users\erikg\Documents\Dev\Backend\Minioppgave MVC\obj\Debug\net9.0\refint\Minioppgave MVC.dll
+C:\Users\erikg\Documents\Dev\Backend\Minioppgave MVC\obj\Debug\net9.0\Minioppgave MVC.pdb
+C:\Users\erikg\Documents\Dev\Backend\Minioppgave MVC\obj\Debug\net9.0\Minioppgave MVC.genruntimeconfig.cache
+C:\Users\erikg\Documents\Dev\Backend\Minioppgave MVC\obj\Debug\net9.0\ref\Minioppgave MVC.dll
